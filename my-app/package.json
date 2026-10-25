@@ -12,7 +12,7 @@
     "@material-ui/styles": "latest",
     "@mui/icons-material": "latest",
     "@mui/x-data-grid": "latest",
-    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.0",
     "@testing-library/user-event": "^13.2.1",
     "json2mq": "latest",
@@ -20,7 +20,7 @@
     "react": "latest",
     "react-dom": "^17.0.2",
     "react-ga": "^3.3.1",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0",
     "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
